@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Chai-Sutta-Bar",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "Tailwind"],
+      "demo": "https://jessicadollz.github.io/Chai-Sutta-Bar/",
+      "source": "https://github.com/Jessicadollz/Chai-Sutta-Bar.git"
+    },
+    {
+      "title": "Gemini AI",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://jessicadollz.github.io/GeminiClone/",
+      "source": "https://github.com/Jessicadollz/GeminiClone.git"
+    },
+    {
+      "title": "Multi-Search-Engine",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://jessicadollz.github.io/Multi-Search-Engine/index.html",
+      "source": "https://github.com/Jessicadollz/Multi-Search-Engine.git"
+    }
+  ]
