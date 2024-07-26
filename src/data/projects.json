@@ -1,6 +1,6 @@
 [
     {
-      "title": "Chai-Sutta-Bar",
+      "title": "Chai-Sutta-Bar (Clone)",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["HTML", "CSS", "Tailwind"],
@@ -8,7 +8,7 @@
       "source": "https://github.com/Jessicadollz/Chai-Sutta-Bar.git"
     },
     {
-      "title": "Gemini AI",
+      "title": "Gemini AI (Clone)",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["HTML", "CSS", "JavaScript"],

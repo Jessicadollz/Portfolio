@@ -83,7 +83,7 @@
     top: -128px;
     left: -10vw;
     border: 764px;
-    background: rgba(25, 55, 109, 0.7);
+    background: rgba(25, 55, 109, 0.7); 
     filter: blur(100px);
     z-index: 0;
 }

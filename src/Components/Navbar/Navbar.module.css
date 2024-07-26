@@ -33,8 +33,12 @@
 }
 
 .menu {
-    display: flex;
+   display: flex;
+}
 
+.menuBtn {
+    display: none; /* Hidden by default */
+    cursor: pointer;
 }
 
 .menuItems {
@@ -44,7 +48,7 @@
 }
 
 .menuItems a {
-    font-size: 25px;
+    font-size: 35px;
     color: var(--color-text);
     text-decoration: none;
 }
